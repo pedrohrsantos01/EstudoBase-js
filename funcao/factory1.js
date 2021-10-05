@@ -5,8 +5,8 @@ const prod1 = {
 
 function criarPessoa(){
     return {
-        nome: 'Pau',
-        sobrenome: 'Latejando'
+        nome: 'leio',
+        sobrenome: 'Muito'
     }
 }
 
